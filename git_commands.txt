@@ -1,3 +1,4 @@
+<<<<<<< HEAD
  1  & 'C:\Users\SUDHANSHU\AppData\Local\Programs\Python\Python312\python.exe' 'c:\Users\SUDHANSHU\.vscode\extensions\ms-python.python... 
    2 ls -l
    3 clear
@@ -39,3 +40,6 @@
   38  git remote set-url origin https://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@github.com/Sudhanshukorekar/github-for-devops.git
   39 git remote -v
   40 git push origin master
+=======
+new change .
+>>>>>>> 6c268572b63398d410198830e169c372d8d2ffc7
