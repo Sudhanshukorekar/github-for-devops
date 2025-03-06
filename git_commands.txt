@@ -1,0 +1,41 @@
+ 1  & 'C:\Users\SUDHANSHU\AppData\Local\Programs\Python\Python312\python.exe' 'c:\Users\SUDHANSHU\.vscode\extensions\ms-python.python... 
+   2 ls -l
+   3 clear
+   4 ls
+   5 ls -l
+   6 clear
+   7 git init
+   8 dir -a
+   9 dir
+  10 git status
+  11 git add
+  12 clear
+  13 git status
+  14 git add testing.py
+  15 git status
+  16 git commit -m added testing files
+  17 git commit -m "added testing files"
+  18  git statuss
+  19 git status
+  20 rm testing.py
+  21 ls
+  22 clear
+  23 git status
+  24 git restore testing.py
+  25 ls
+  26 git status
+   26 git status
+  27 history
+  28 git add git_commands.txt
+  29 git status
+  30 git commit -m "added git commands"
+  31 git status
+  32 git remote add origin https://github.com/Sudhanshukorekar/github-for-devops.git
+  33 git remote -v
+  34 git status
+  35 git remote set-url origine
+  36  git remote -v
+  37 git remote set-url origine https://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@github.com/Sudhanshukorekar/github-for-devops.git
+  38  git remote set-url origin https://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@github.com/Sudhanshukorekar/github-for-devops.git
+  39 git remote -v
+  40 git push origin master
