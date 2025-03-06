@@ -36,10 +36,11 @@
   34 git status
   35 git remote set-url origine
   36  git remote -v
-  37 git remote set-url origine https://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@github.com/Sudhanshukorekar/github-for-devops.git
-  38  git remote set-url origin https://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@github.com/Sudhanshukorekar/github-for-devops.git
+  37 git remote set-url origine https://@github.com/Sudhanshukorekar/github-for-devops.git
+  38  git remote set-url origin https://@github.com/Sudhanshukorekar/github-for-devops.git
   39 git remote -v
   40 git push origin master
 =======
 new change .
->>>>>>> 6c268572b63398d410198830e169c372d8d2ffc7
+
+git 
